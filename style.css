@@ -63,19 +63,6 @@ a{
 		border-radius: 50%;
 }
 
-.btn-blue{
-	background-color: #BBE4E9;
-	color: #582900;
-	padding: 15px 20px;
-	border-radius: 4px;
-	text-decoration:none;
-	transition: 0.3s
-}
-
-.btn-blue:hover{
-	background-color: #AEDCDC;
-}
-
 .list-inline{
 	list-style: none;
 	padding-left: 0px;
@@ -102,4 +89,17 @@ a{
 
 #intro p {
 	margin-bottom: 40px;
+}
+
+.btn-blue{
+	background-color: #BBE4E9;
+	color: #582900;
+	padding: 15px 20px;
+	border-radius: 4px;
+	text-decoration:none;
+	transition: 0.3s
+}
+
+.btn-blue:hover{
+	background-color: #AEDCDC;
 }
